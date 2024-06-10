@@ -37,6 +37,8 @@ Tópicos Essenciais: Na primeira etapa identifiquei os principais tópicos que p
 ## 🚀 Resultados
 O eBook oferece uma introdução clara aos princípios essenciais de UI e UX. Com textos curtos, o guia ajuda iniciantes a entenderem e aplicarem conceitos fundamentais no design de interfaces e experiências de usuário.
 
+Link para o Ebook: https://www.linkedin.com/feed/update/urn:li:activity:7205748346668433408/
+
 ## 💭 Reflexão (Opcional)
 Criar este eBook com IA foi uma experiência interessante, pois tivemos que simplificar conceitos difíceis em textos curtos e claros. A IA ajudou a garantir precisão e tornar o guia útil para iniciantes em UI/UX.
 
