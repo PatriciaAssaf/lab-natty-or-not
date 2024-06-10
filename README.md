@@ -20,29 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Fundamentos de Ui/UX: Guia Prático para Iniciantes ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este eBook foi criado para fornecer uma introdução acessível e prática aos fundamentos de UI (User Interface) e UX (User Experience). Destinado a iniciantes na área de design digital. Cada capítulo aborda aspectos chave de UI/UX, oferecendo uma visão geral que capacita o leitor a começar sua jornada no design de interfaces e experiências de usuário.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para o texto foi usado ChatGPT
+Para geração de imagem Copilot Design
+Para edição de imagem Adobe Photoshop
+Para diagramação Adobre InDesign
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Tópicos Essenciais: Na primeira etapa identifiquei os principais tópicos que precisariam ser cobertos para fornecer uma compreensão abrangente dos fundamentos de UI/UX. Em seguida usei o ChatGPT para gerar os textos de cada tópico/capítulo. Usei o Copilot Design para gerar a imagem da capa, em seguida fiz a edição necessário da capa no Photoshop. Para terminar usei o Adobe InDesign para diagramar as páginas do ebook.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O eBook oferece uma introdução clara aos princípios essenciais de UI e UX. Com textos curtos, o guia ajuda iniciantes a entenderem e aplicarem conceitos fundamentais no design de interfaces e experiências de usuário.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Criar este eBook com IA foi uma experiência interessante, pois tivemos que simplificar conceitos difíceis em textos curtos e claros. A IA ajudou a garantir precisão e tornar o guia útil para iniciantes em UI/UX.
 
 ## Links Interessantes
 
